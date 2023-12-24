@@ -26587,7 +26587,7 @@
         </states>
     </object>
         <object id="2575" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="2" noRuins="1" noDecay="1">
-        <!--name = extra Sign-->
+        <!--name = event Sign-->
         <lockedCells>
             <cell x="0" y="0" />
         </lockedCells>
