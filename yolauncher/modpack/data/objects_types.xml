@@ -36178,9 +36178,9 @@
 		<Description>Elder's gift for helping the villagers.</Description>
 	</row>
 	<row>
-		<ID>2486</ID>
-		<ParentID>61</ParentID>
-		<Name>PVE Signpost</Name>
+		<ID>2570</ID>
+		<ParentID>4095</ParentID>
+		<Name>LiFx Sign</Name>
 		<IsContainer>0</IsContainer>
 		<IsMovableObject>0</IsMovableObject>
 		<IsUnmovableobject>1</IsUnmovableobject>
@@ -36193,8 +36193,127 @@
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
 		<BackgndImage>0</BackgndImage>
-		<FaceImage>art2DObjectssign.png</FaceImage>
-		<Description>Object from LiFx Signs 
- PVE Zone Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/LiFxSignpost.png</FaceImage>
+		<Description>Object from LiFx Buildings 
+ Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
+	</row>
+	<row>
+		<ID>2571</ID>
+		<ParentID>4095</ParentID>
+		<Name>PVE Sign Post</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage>0</BackgndImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/PVERecipe.png</FaceImage>
+		<Description>Object from LiFx Buildings 
+ Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
+	</row>
+	<row>
+		<ID>2572</ID>
+		<ParentID>4095</ParentID>
+		<Name>PVP Sign Post</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage>0</BackgndImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/PVPRecipe.png</FaceImage>
+		<Description>Object from LiFx Buildings 
+ Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
+	</row>
+	<row>
+		<ID>2573</ID>
+		<ParentID>4095</ParentID>
+		<Name>RP Sign Post</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage>0</BackgndImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/RPRecipe.png</FaceImage>
+		<Description>Object from LiFx Buildings 
+ Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
+	</row>
+	<row>
+		<ID>2574</ID>
+		<ParentID>4095</ParentID>
+		<Name>Caution Sign Post</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage>0</BackgndImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/CautionRecipe.png</FaceImage>
+		<Description>Object from LiFx Buildings 
+ Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
+	</row>
+	<row>
+		<ID>2575</ID>
+		<ParentID>4095</ParentID>
+		<Name>Event Sign Post</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage>0</BackgndImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</FaceImage>
+		<Description>Object from LiFx Buildings 
+ Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
+	</row>
+	<row>
+		<ID>4095</ID>
+		<ParentID>12</ParentID>
+		<Name>LiFx Buildings</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>0</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>0</UnitWeight>
+		<BackgndImage>0</BackgndImage>
+		<FaceImage></FaceImage>
+		<Description>LiFx Buildings Catagory</Description>
 	</row>
 </table>

@@ -4877,9 +4877,9 @@
 		<IsDoor>0</IsDoor>
 		<IsPremium>0</IsPremium>
 		<MaxContSize>0</MaxContSize>
-		<Length>2</Length>
+		<Length>3</Length>
 		<MaxStackSize>10000</MaxStackSize>
-		<UnitWeight>1000</UnitWeight>
+		<UnitWeight>3500</UnitWeight>
 		<BackgndImage></BackgndImage>
 		<FaceImage>art\2D\Items\brick.png</FaceImage>
 		<Description></Description>
@@ -7520,7 +7520,7 @@
 		<MaxContSize>0</MaxContSize>
 		<Length>3</Length>
 		<MaxStackSize>10000</MaxStackSize>
-		<UnitWeight>1100</UnitWeight>
+		<UnitWeight>5000</UnitWeight>
 		<BackgndImage></BackgndImage>
 		<FaceImage></FaceImage>
 		<Description></Description>
@@ -21834,7 +21834,7 @@
 	</row>
 	<row>
 		<ID>1228</ID>
-		<ParentID>4095</ParentID>
+		<ParentID>1457</ParentID>
 		<Name>Gallows_A</Name>
 		<IsContainer>0</IsContainer>
 		<IsMovableObject>1</IsMovableObject>
@@ -21872,7 +21872,7 @@
 	</row>
 	<row>
 		<ID>1230</ID>
-		<ParentID>4095</ParentID>
+		<ParentID>1457</ParentID>
 		<Name>Gallows_C</Name>
 		<IsContainer>0</IsContainer>
 		<IsMovableObject>1</IsMovableObject>
@@ -22328,7 +22328,7 @@
 	</row>
 	<row>
 		<ID>1254</ID>
-		<ParentID>4095</ParentID>
+		<ParentID>1457</ParentID>
 		<Name>Yermyk_Khtyn_wooden_beams</Name>
 		<IsContainer>0</IsContainer>
 		<IsMovableObject>1</IsMovableObject>
@@ -22385,7 +22385,7 @@
 	</row>
 	<row>
 		<ID>1257</ID>
-		<ParentID>4095</ParentID>
+		<ParentID>1457</ParentID>
 		<Name>statue_tusgaal</Name>
 		<IsContainer>0</IsContainer>
 		<IsMovableObject>1</IsMovableObject>
@@ -22404,7 +22404,7 @@
 	</row>
 	<row>
 		<ID>1258</ID>
-		<ParentID>4095</ParentID>
+		<ParentID>1457</ParentID>
 		<Name>statue_mctir</Name>
 		<IsContainer>0</IsContainer>
 		<IsMovableObject>1</IsMovableObject>
@@ -22423,7 +22423,7 @@
 	</row>
 	<row>
 		<ID>1259</ID>
-		<ParentID>4095</ParentID>
+		<ParentID>1457</ParentID>
 		<Name>statue_sovereign</Name>
 		<IsContainer>0</IsContainer>
 		<IsMovableObject>1</IsMovableObject>
@@ -36213,7 +36213,7 @@
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
 		<BackgndImage>0</BackgndImage>
-		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</FaceImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/PVERecipe.png</FaceImage>
 		<Description>Object from LiFx Buildings 
  Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
 	</row>
@@ -36233,7 +36233,7 @@
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
 		<BackgndImage>0</BackgndImage>
-		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</FaceImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/PVPRecipe.png</FaceImage>
 		<Description>Object from LiFx Buildings 
  Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
 	</row>
@@ -36253,7 +36253,7 @@
 		<MaxStackSize>0</MaxStackSize>
 		<UnitWeight>5000</UnitWeight>
 		<BackgndImage>0</BackgndImage>
-		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</FaceImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/RPRecipe.png</FaceImage>
 		<Description>Object from LiFx Buildings 
  Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
 	</row>
@@ -36274,6 +36274,26 @@
 		<UnitWeight>5000</UnitWeight>
 		<BackgndImage>0</BackgndImage>
 		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/CautionRecipe.png</FaceImage>
+		<Description>Object from LiFx Buildings 
+ Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
+	</row>
+	<row>
+		<ID>2575</ID>
+		<ParentID>4095</ParentID>
+		<Name>Event Sign Post</Name>
+		<IsContainer>0</IsContainer>
+		<IsMovableObject>0</IsMovableObject>
+		<IsUnmovableobject>1</IsUnmovableobject>
+		<IsTool>0</IsTool>
+		<IsDevice>0</IsDevice>
+		<IsDoor>0</IsDoor>
+		<IsPremium>0</IsPremium>
+		<MaxContSize>0</MaxContSize>
+		<Length>0</Length>
+		<MaxStackSize>0</MaxStackSize>
+		<UnitWeight>5000</UnitWeight>
+		<BackgndImage>0</BackgndImage>
+		<FaceImage>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</FaceImage>
 		<Description>Object from LiFx Buildings 
  Signpost for LIFX AND YO LAUNCHER FRAMEWORK</Description>
 	</row>

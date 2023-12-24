@@ -1755,7 +1755,7 @@
 		<ID>157</ID>
 		<Name>Unfired brick</Name>
 		<Description></Description>
-		<StartingToolsID>244</StartingToolsID>
+		<StartingToolsID>204</StartingToolsID>
 		<SkillTypeID>17</SkillTypeID>
 		<SkillLvl>0</SkillLvl>
 		<ResultObjectTypeID>469</ResultObjectTypeID>
@@ -13817,7 +13817,7 @@
 		<Quantity>1</Quantity>
 		<Autorepeat>0</Autorepeat>
 		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/PVERecipe.png</ImagePath>
 	</row>
 	<row>
 		<ID>1089</ID>
@@ -13831,7 +13831,7 @@
 		<Quantity>1</Quantity>
 		<Autorepeat>0</Autorepeat>
 		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/PVPRecipe.png</ImagePath>
 	</row>
 	<row>
 		<ID>1090</ID>
@@ -13845,7 +13845,7 @@
 		<Quantity>1</Quantity>
 		<Autorepeat>0</Autorepeat>
 		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/RPRecipe.png</ImagePath>
 	</row>
 	<row>
 		<ID>1091</ID>
@@ -13863,82 +13863,12 @@
 	</row>
 	<row>
 		<ID>1092</ID>
-		<Name>Tusgaal Statue</Name>
-		<Description>Object from Lifx Buildings</Description>
-		<StartingToolsID>32</StartingToolsID>
-		<SkillTypeID>19</SkillTypeID>
-		<SkillLvl>60</SkillLvl>
-		<ResultObjectTypeID>1257</ResultObjectTypeID>
-		<SkillDepends>25</SkillDepends>
-		<Quantity>1</Quantity>
-		<Autorepeat>0</Autorepeat>
-		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
-	</row>
-	<row>
-		<ID>1093</ID>
-		<Name>Mctir Statue</Name>
-		<Description>Object from Lifx Buildings</Description>
-		<StartingToolsID>32</StartingToolsID>
-		<SkillTypeID>19</SkillTypeID>
-		<SkillLvl>60</SkillLvl>
-		<ResultObjectTypeID>1258</ResultObjectTypeID>
-		<SkillDepends>25</SkillDepends>
-		<Quantity>1</Quantity>
-		<Autorepeat>0</Autorepeat>
-		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
-	</row>
-	<row>
-		<ID>1094</ID>
-		<Name>Soverign Statue</Name>
-		<Description>Object from Lifx Buildings</Description>
-		<StartingToolsID>32</StartingToolsID>
-		<SkillTypeID>19</SkillTypeID>
-		<SkillLvl>60</SkillLvl>
-		<ResultObjectTypeID>1259</ResultObjectTypeID>
-		<SkillDepends>25</SkillDepends>
-		<Quantity>1</Quantity>
-		<Autorepeat>0</Autorepeat>
-		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
-	</row>
-	<row>
-		<ID>1095</ID>
-		<Name>YermykBeams</Name>
+		<Name>Event Sign Post</Name>
 		<Description>Object from Lifx Buildings</Description>
 		<StartingToolsID>32</StartingToolsID>
 		<SkillTypeID>18</SkillTypeID>
 		<SkillLvl>60</SkillLvl>
-		<ResultObjectTypeID>1254</ResultObjectTypeID>
-		<SkillDepends>25</SkillDepends>
-		<Quantity>1</Quantity>
-		<Autorepeat>0</Autorepeat>
-		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
-	</row>
-	<row>
-		<ID>1096</ID>
-		<Name>Gallows C</Name>
-		<Description>Object from Lifx Buildings</Description>
-		<StartingToolsID>32</StartingToolsID>
-		<SkillTypeID>18</SkillTypeID>
-		<SkillLvl>60</SkillLvl>
-		<ResultObjectTypeID>1230</ResultObjectTypeID>
-		<SkillDepends>25</SkillDepends>
-		<Quantity>1</Quantity>
-		<Autorepeat>0</Autorepeat>
-		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
-	</row>
-	<row>
-		<ID>1097</ID>
-		<Name>Gallows A</Name>
-		<Description>Object from Lifx Buildings</Description>
-		<StartingToolsID>32</StartingToolsID>
-		<SkillTypeID>18</SkillTypeID>
-		<SkillLvl>60</SkillLvl>
-		<ResultObjectTypeID>1228</ResultObjectTypeID>
+		<ResultObjectTypeID>2575</ResultObjectTypeID>
 		<SkillDepends>25</SkillDepends>
 		<Quantity>1</Quantity>
 		<Autorepeat>0</Autorepeat>

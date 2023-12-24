@@ -13793,17 +13793,86 @@
 	</row>
 	<row>
 		<ID>1087</ID>
-		<Name>PVESign</Name>
-		<Description>Object from LiFx Signs 
- PVE Zone Signpost.</Description>
-		<StartingToolsID>36</StartingToolsID>
-		<SkillTypeID>54</SkillTypeID>
+		<Name>LiFx Sign post</Name>
+		<Description>Object from Lifx Buildings</Description>
+		<StartingToolsID>32</StartingToolsID>
+		<SkillTypeID>18</SkillTypeID>
 		<SkillLvl>60</SkillLvl>
-		<ResultObjectTypeID>2486</ResultObjectTypeID>
+		<ResultObjectTypeID>2570</ResultObjectTypeID>
 		<SkillDepends>25</SkillDepends>
 		<Quantity>1</Quantity>
 		<Autorepeat>0</Autorepeat>
 		<IsBlueprint>0</IsBlueprint>
-		<ImagePath>art2DObjectssign.png</ImagePath>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/LiFxSignpost.png</ImagePath>
+	</row>
+	<row>
+		<ID>1088</ID>
+		<Name>PVE sign post</Name>
+		<Description>Object from Lifx Buildings</Description>
+		<StartingToolsID>32</StartingToolsID>
+		<SkillTypeID>18</SkillTypeID>
+		<SkillLvl>60</SkillLvl>
+		<ResultObjectTypeID>2571</ResultObjectTypeID>
+		<SkillDepends>25</SkillDepends>
+		<Quantity>1</Quantity>
+		<Autorepeat>0</Autorepeat>
+		<IsBlueprint>0</IsBlueprint>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/PVERecipe.png</ImagePath>
+	</row>
+	<row>
+		<ID>1089</ID>
+		<Name>PVP sign post</Name>
+		<Description>Object from Lifx Buildings</Description>
+		<StartingToolsID>32</StartingToolsID>
+		<SkillTypeID>18</SkillTypeID>
+		<SkillLvl>60</SkillLvl>
+		<ResultObjectTypeID>2572</ResultObjectTypeID>
+		<SkillDepends>25</SkillDepends>
+		<Quantity>1</Quantity>
+		<Autorepeat>0</Autorepeat>
+		<IsBlueprint>0</IsBlueprint>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/PVPRecipe.png</ImagePath>
+	</row>
+	<row>
+		<ID>1090</ID>
+		<Name>RP sign post</Name>
+		<Description>Object from Lifx Buildings</Description>
+		<StartingToolsID>32</StartingToolsID>
+		<SkillTypeID>18</SkillTypeID>
+		<SkillLvl>60</SkillLvl>
+		<ResultObjectTypeID>2573</ResultObjectTypeID>
+		<SkillDepends>25</SkillDepends>
+		<Quantity>1</Quantity>
+		<Autorepeat>0</Autorepeat>
+		<IsBlueprint>0</IsBlueprint>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/RPRecipe.png</ImagePath>
+	</row>
+	<row>
+		<ID>1091</ID>
+		<Name>Caution Signpost</Name>
+		<Description>Object from Lifx Buildings</Description>
+		<StartingToolsID>32</StartingToolsID>
+		<SkillTypeID>18</SkillTypeID>
+		<SkillLvl>60</SkillLvl>
+		<ResultObjectTypeID>2574</ResultObjectTypeID>
+		<SkillDepends>25</SkillDepends>
+		<Quantity>1</Quantity>
+		<Autorepeat>0</Autorepeat>
+		<IsBlueprint>0</IsBlueprint>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/CautionRecipe.png</ImagePath>
+	</row>
+	<row>
+		<ID>1092</ID>
+		<Name>Event Sign Post</Name>
+		<Description>Object from Lifx Buildings</Description>
+		<StartingToolsID>32</StartingToolsID>
+		<SkillTypeID>18</SkillTypeID>
+		<SkillLvl>60</SkillLvl>
+		<ResultObjectTypeID>2575</ResultObjectTypeID>
+		<SkillDepends>25</SkillDepends>
+		<Quantity>1</Quantity>
+		<Autorepeat>0</Autorepeat>
+		<IsBlueprint>0</IsBlueprint>
+		<ImagePath>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/2D/recipes/no_image.png</ImagePath>
 	</row>
 </table>

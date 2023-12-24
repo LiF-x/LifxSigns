@@ -36,19 +36,7 @@ package LiFxBuildings
     function LiFxBuildings::version() {
         return "0.0.1";
     }
-    function LiFxBuildings::LiFxbuildingupdates() {
-        dbi.Update("UPDATE `objects_types` SET  ParentID = 4095 WHERE ID = 1259");
-        dbi.Update("UPDATE `objects_types` SET  ParentID = 4095 WHERE ID = 1258");
-        dbi.Update("UPDATE `objects_types` SET  ParentID = 4095 WHERE ID = 1257");
-        dbi.Update("UPDATE `objects_types` SET  ParentID = 4095 WHERE ID = 1230");
-        dbi.Update("UPDATE `objects_types` SET  ParentID = 4095 WHERE ID = 1228");
-        dbi.Update("UPDATE `objects_types` SET  ParentID = 4095 WHERE ID = 1254");
-    // Shelved craftable bricks in kiln, need to investigate this
-    //    dbi.Update("UPDATE `recipe` SET  StartingToolsID = 244 WHERE ID = 157");
-    //   dbi.Update("UPDATE `objects_types` SET Length = 2, UnitWeight = 1000 WHERE ID = 267");
-    //    dbi.Update("UPDATE `objects_types` SET  UnitWeight = 1100 WHERE ID = 469");
 
-    }
         function LiFxBuildings::LiFxcategory() {
         return new ScriptObject(LiFxcategory : ObjectsTypes)
         {

@@ -26324,8 +26324,8 @@
             </state>
         </states>
     </object>
-    <object id="2486" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="2" noRuins="1" noDecay="1">
-        <!--name = LiFxPVESign-->
+        <object id="2570" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="2" noRuins="1" noDecay="1">
+        <!--name = LiFxSign-->
         <lockedCells>
             <cell x="0" y="0" />
         </lockedCells>
@@ -26333,7 +26333,7 @@
             <state type="Complete">
                 <shapes>
                     <shape>
-                        <shapeName>yolauncher/modpack/mods/LiFxSigns/art/models/Signs/pvesign.dts</shapeName>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxsign.dts</shapeName>
                         <offset x="0" y="0" z="0" />
                         <rot x="0" y="0" z="1" angle="0" />
                         <scale x="1" y="1" z="1" />
@@ -26343,7 +26343,197 @@
             <state type="Damaged">
                 <shapes>
                     <shape>
-                        <shapeName>yolauncher/modpack/mods/LiFxSigns/art/models/Signs/pvesign.dts</shapeName>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxsign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+        <object id="2571" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="2" noRuins="1" noDecay="1">
+        <!--name = pve Sign-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxPveSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxPveSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+            <object id="2572" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="2" noRuins="1" noDecay="1">
+        <!--name = pvp Sign-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxPVPSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxPVPSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+        <object id="2573" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="2" noRuins="1" noDecay="1">
+        <!--name = rp Sign-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxRPSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxRPSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+    <object id="2574" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="2" noRuins="1" noDecay="1">
+        <!--name = extra Sign-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxExtraSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxExtraSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+        <object id="2575" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="2" noRuins="1" noDecay="1">
+        <!--name = event Sign-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxEventSign.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/LiFxBuildings/art/models/Signs/LiFxEventSign.dts</shapeName>
                         <offset x="0" y="0" z="0" />
                         <rot x="0" y="0" z="1" angle="0" />
                         <scale x="1" y="1" z="1" />
