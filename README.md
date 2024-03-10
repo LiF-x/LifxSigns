@@ -6,8 +6,6 @@
 ## Compatability checks
 
 ### Ensure you have all updated mods to avoid installation issues
-LiFx church V1.0.1 fixes compatibility issues inserting new recipe's [Download here](https://github.com/LiF-x/Church/releases/latest)
-Lifx Compatible Jorvikmod V1.0.1 fixes compatibility issues inserting new recipe's [Download here](https://github.com/LiF-x/JorvikMod/releases/latest)
 
 ### Installation instructions
 
