@@ -1,5 +1,4 @@
 # LiFx Signs
-- Part of the LiFx buildings mod
 
 [Download here](https://github.com/LiF-x/LiFxSigns/releases/latest)
 
