@@ -7,24 +7,41 @@
   "authors": [
     "lif-x community"
   ],
-  "loadOrderHint": 100,
+  "source": {
+    "repo": "LiF-x/LifxSigns",
+    "commit": "f89e727e5f1de2b18a1862e00e596ec352ce98f8"
+  },
+  "baseline": {
+    "gameBuild": "sha256:d47ef6156423f1226b6d07a1f31f81d3aa94bc460cc1ac76bcf7d7ef9c305d4a",
+    "steamBuildId": "11261643"
+  },
+  "license": "AGPL-3.0-only",
+  "distribution": "hostable",
+  "dependencies": [
+    "LiF-x/ServerAutoloader"
+  ],
+  "loadOrderHint": 300,
+  "objectTypeIds": {
+    "added": [
+      "2570",
+      "2571",
+      "2572",
+      "2573",
+      "2574",
+      "2575"
+    ],
+    "modified": [
+      "1232",
+      "1671",
+      "1733",
+      "2003"
+    ]
+  },
   "files": {
     "overlay": [
       {
         "src": "mods/",
         "dest": "mods/"
-      },
-      {
-        "src": "data/objects_types.xml",
-        "dest": "data/objects_types.xml"
-      },
-      {
-        "src": "data/recipe.xml",
-        "dest": "data/recipe.xml"
-      },
-      {
-        "src": "data/recipe_requirement.xml",
-        "dest": "data/recipe_requirement.xml"
       },
       {
         "src": "yolauncher/modpack/mods/LiFx/",
